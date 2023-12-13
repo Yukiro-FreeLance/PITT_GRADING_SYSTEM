@@ -9,14 +9,6 @@
   </picture>
 </p>
 
-[![PITTSGIS CI](https://github.com/Submitty/Submitty/actions/workflows/submitty_ci.yml/badge.svg?event=push)](https://github.com/Submitty/Submitty/actions/workflows/submitty_ci.yml)
-[![Vagrant Up](https://github.com/Submitty/Submitty/actions/workflows/vagrant_up.yaml/badge.svg)](https://github.com/Submitty/Submitty/actions/workflows/vagrant_up.yaml)
-
-# Usage
-
-System instructions located at 
-
-# Background
 
 
 
